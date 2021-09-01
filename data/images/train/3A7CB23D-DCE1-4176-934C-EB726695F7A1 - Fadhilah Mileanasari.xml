@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>3A7CB23D-DCE1-4176-934C-EB726695F7A1 - Fadhilah Mileanasari.jpg</filename>
+	<path>/content/gdrive/My Drive/skripsi/fia/data/images/3A7CB23D-DCE1-4176-934C-EB726695F7A1 - Fadhilah Mileanasari.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2119</width>
+		<height>2820</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>509</xmin>
+			<ymin>303</ymin>
+			<xmax>1209</xmax>
+			<ymax>2386</ymax>
+		</bndbox>
+	</object>
+</annotation>

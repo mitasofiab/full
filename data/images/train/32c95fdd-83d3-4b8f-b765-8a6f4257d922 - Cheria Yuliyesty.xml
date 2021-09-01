@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>32c95fdd-83d3-4b8f-b765-8a6f4257d922 - Cheria Yuliyesty.jpg</filename>
+	<path>/content/gdrive/My Drive/skripsi/fia/data/images/32c95fdd-83d3-4b8f-b765-8a6f4257d922 - Cheria Yuliyesty.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>780</width>
+		<height>1040</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>293</xmin>
+			<ymin>118</ymin>
+			<xmax>533</xmax>
+			<ymax>896</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>14FD09E5-F095-4E07-8F4F-42BD58187FCA - Amirah Citra w.jpg</filename>
+	<path>/content/gdrive/My Drive/skripsi/fia/data/images/14FD09E5-F095-4E07-8F4F-42BD58187FCA - Amirah Citra w.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1153</xmin>
+			<ymin>1187</ymin>
+			<xmax>1984</xmax>
+			<ymax>3869</ymax>
+		</bndbox>
+	</object>
+</annotation>

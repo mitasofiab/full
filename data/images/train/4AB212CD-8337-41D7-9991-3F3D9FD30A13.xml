@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>4AB212CD-8337-41D7-9991-3F3D9FD30A13.jpg</filename>
+	<path>/content/gdrive/My Drive/skripsi/fia/data/images/4AB212CD-8337-41D7-9991-3F3D9FD30A13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>750</width>
+		<height>1334</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>306</xmin>
+			<ymin>630</ymin>
+			<xmax>492</xmax>
+			<ymax>1039</ymax>
+		</bndbox>
+	</object>
+</annotation>
